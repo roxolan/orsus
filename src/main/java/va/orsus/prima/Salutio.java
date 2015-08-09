@@ -1,4 +1,4 @@
-package va.orsusjavae.prima;
+package va.orsus.prima;
 
 public class Salutio {
 
